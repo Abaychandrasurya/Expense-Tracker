@@ -1,7 +1,7 @@
 document.getElementById('expenseForm').addEventListener('submit', addExpense);
 document.getElementById('filterBtn').addEventListener('click', filterExpenses);
 
-const baseURL = 'https://api.airtable.com/v0/app9kKAJthXZBnvOw/expense';
+const baseURL = '.     ';
 const apiKey = 'patGZytPe1xPC3pSn.4ee6bd012046cfa6e42f01c7a32e60e83995121af86f20239597795f68a736ca';
 
 function addExpense(e) {
